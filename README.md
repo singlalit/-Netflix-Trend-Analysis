@@ -26,5 +26,5 @@ Run the scraper:
 Analyze the data:
     python analyze.py
 
-📊 Sample Output:
+
 
