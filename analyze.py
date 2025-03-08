@@ -16,3 +16,6 @@ plt.ylabel("Show/Movie Name")
 plt.title("Top 10 Trending Netflix Shows/Movies")
 plt.gca().invert_yaxis()  # To display rank 1 at the top
 plt.show()
+
+
+

@@ -18,4 +18,13 @@ Install dependencies using:
 ```sh
 pip install requests beautifulsoup4 pandas matplotlib
 
+🚀 How to Run:
+
+Run the scraper:
+    python scraper.py
+
+Analyze the data:
+    python analyze.py
+
+📊 Sample Output:
 
